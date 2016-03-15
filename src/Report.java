@@ -30,12 +30,6 @@ public class Report {
 		this.noOfRooms = noOfRooms;
 	}
 	
-	 
-
-
-
-
-
 
 
 }
